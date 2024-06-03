@@ -1,0 +1,10 @@
+#content{
+    display: flex;
+    justify-content: center;
+    font-size: 150px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+.offers{
+    color: red;
+}
